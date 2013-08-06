@@ -1,9 +1,0 @@
-{
-  "name"          : "rangy",
-  "description"   : "A cross-browser JavaScript range and selection library.",
-  "url"           : "https://code.google.com/p/rangy/",
-  "keywords"      : ["selection", "browser"],
-  "author"        : "Tim Down",
-  "main"          : "rangy-core.js",
-  "version"       : "1.2.3"
-}
