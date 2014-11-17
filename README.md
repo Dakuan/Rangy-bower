@@ -1,5 +1,6 @@
 Rangy-bower
 ===========
+There is an official version of rangy now comes to github  [rangy-official](https://github.com/timdown/rangy-release).
 
 bower package for rather wonderful [rangy](https://code.google.com/p/rangy/) library.
 
